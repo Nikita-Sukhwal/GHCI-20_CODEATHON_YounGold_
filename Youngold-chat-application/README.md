@@ -3,7 +3,7 @@
 
 > To help facilitate private communication YounGold chat App provides private rooms to discuss on solutions and gain motivation to problems affecting mental health of an individual.
 
-# Prerequisite 
+## Prerequisite 
 ## Project Local Setup 👩‍💻
 
 ### For Back end part using Youngold-chat-application folder
